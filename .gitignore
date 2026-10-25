@@ -1,0 +1,16 @@
+﻿# Root repo defaults
+**/node_modules/
+**/dist/
+**/build/
+**/.next/
+**/.expo/
+**/.cache/
+**/.vite/
+**/coverage/
+**/.env
+**/.env.*
+**/.DS_Store
+**/tmp/
+**/temp/
+**/.idea/
+**/.vscode/
